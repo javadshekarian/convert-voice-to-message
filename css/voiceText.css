@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url(../font/Montserrat-Regular.ttf);
+}
+body{
+    background-color: green;
+    font-size: 18px;
+    font-weight: bold;
+}
+#container{
+    max-width: 800px;
+    padding: 1rem 2.5rem;
+    margin: 2rem auto;
+    background-color: #fff;
+    height: 150px;
+    border-radius: 10px;
+    font-family: "Montserrat";
+}
